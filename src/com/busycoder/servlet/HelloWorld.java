@@ -19,6 +19,7 @@ public class HelloWorld extends HttpServlet {
         super();
         //changed a little
         // TODO Auto-generated constructor stub
+        out.println("<b>hello world!</b>");
     }
 
 	/**
